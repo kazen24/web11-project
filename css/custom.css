@@ -1,0 +1,14 @@
+/* card */
+.card-body i{
+    font-size: 40px;
+}
+.card-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.card{
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+.team .card{
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
